@@ -1,0 +1,14 @@
+{
+"resources":
+	[
+        {"name":"sprite1","type":"image","url":"assets/lv1.png"},
+        {"name":"sprite2","type":"image","url":"assets/hong1.png"},
+        {"name":"bg","type":"image","url":"assets/background.png"},
+        {"name":"button","type":"image","url":"assets/button.png"}
+	],
+
+"groups":
+	[
+        {"name":"mygame","keys":"sprite1,sprite2,bg,button"}
+	]
+}
